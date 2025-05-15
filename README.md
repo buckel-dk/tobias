@@ -63,12 +63,6 @@ Experienced IT professional with a strong background in software engineering, cl
 * Driver for social events (walks, tech-deep-dive, techie-brekkie, etc.)  
 * Danish native, English fluent, German (speak+understand)
 
-## **Projects**
-
-* Build a Home Automation system (up and running for \+5 years) with Raspberry Pi’s and ESP32 Microcontrollers  
-* Designing and 3D print solutions to everyday problems (car parts, kitchen tools, gadgets etc.)  
-* Build a Computer only using logic gates (Breadboard computer \- https://eater.net/8bit/)
-
 ---
 
 # **About Me**
@@ -79,9 +73,7 @@ Hi, I'm Tobias Bardino. I'm an experienced IT professional with a passion for te
 
 ## **Background**
 
-I was born in Aarhus, Denmark. I later moved to Odense, Denmark, to pursue my Bachelor's and Master's degrees in Computer Science at the University of Southern Denmark. My professional career began in Copenhagen, Denmark, where I have been living in the greater area for over 20 years now, currently residing in a small house in Lyngby.
-
-I am married and have a grown-up daughter.
+I was born in Aarhus, Denmark. I later moved to Odense, Denmark, to pursue my Bachelor's and Master's degrees in Computer Science at the University of Southern Denmark. My professional career began in Copenhagen, Denmark, where I have been living in the greater area for over 20 years now, currently residing in a small house in Lyngby. I am married and have a grown-up daughter.
 
 ## **Education**
 
@@ -96,4 +88,9 @@ In my free time, I enjoy a variety of activities:
 * **Socializing:** Spending time with friends is important to me.  
 * **Music:** I'm a fan of music and enjoy attending festivals and concerts.  
 * **Outdoor Activities:** I'm passionate about outdoor pursuits, including skiing, off-road adventure biking (MC), and mountain biking.  
-* **Hobby Projects:** I love working on personal technical projects, such as building Home Automation systems with Raspberry Pi's and ESP32 microcontrollers, designing and 3D printing solutions to everyday problems, and even building a computer using only logic gates (a breadboard computer).
+* **Hobby Projects:** I love working on personal technical projects, such as:
+  * Building Home Automation systems with Raspberry Pi's and ESP32 microcontrollers
+  * Designing and 3D printing solutions to everyday problems, like: [Unifi Dreammachine vertical mounts](https://cad.onshape.com/documents/52d1ef398ba3a923f68b1b10/w/bee3f246a37cbc0b5f5b16e3/e/3037ec19087f968ab908e7bc)
+  * Building a computer using only logic gates (a breadboard computer) - https://eater.net/8bit/
+
+
