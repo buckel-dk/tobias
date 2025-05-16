@@ -13,7 +13,7 @@
 
 ## **Summary / Objective**
 
-Experienced IT professional with a strong background in software engineering, cloud infrastructure (AWS), and architecture. Proven ability to build and scale complex systems, as demonstrated by achievements such as building a bank from scratch, scaling and modernising the world's largest enzyme database, and re-inventing a water treatment optimisation system. Passionate about technology and continuous learning, with hands-on experience in hobby projects involving Raspberry Pi, ESP32, and Home Assistant. Seeking a challenging role where I can leverage my technical expertise and leadership skills to drive innovation and deliver impactful solutions.
+Experienced IT professional with a strong background in software engineering, cloud infrastructure (AWS), and architecture. Proven ability to build and scale complex systems, as demonstrated by achievements such as building a bank from scratch, scaling and modernising the world's largest enzyme database, and re-inventing a water treatment optimisation system. Passionate about technology and continuous learning, with hands-on experience in hobby projects involving hardware (Raspberry Pi, ESP32 and eletronics) and software (k3s, Home Assistant, IoT and React Web Apps). Seeking a challenging role where I can leverage my technical expertise and leadership skills to drive innovation and deliver impactful solutions.
 
 ## **Work Experience**
 
@@ -27,8 +27,8 @@ Experienced IT professional with a strong background in software engineering, cl
 
 **Senior Software Engineer** | Novozymes (part of Novo Nordisk Foundation) | Copenhagen, Denmark | 2016 – 2019
 
-* Building new functionality on the world largest enzyme database system  
-* Scaling the current system to be able to serve offices all around the world  
+* Building new functionality on the world largest enzyme database system
+* Scaling the current system to be able to serve offices all around the world
 * Converting from a big monolith to a service oriented architecture on Kubernetes  
 * Scrum master of a cross functional team of 10
 
