@@ -5,7 +5,7 @@
 * **Name:** Tobias Bardino  
 * **Location:** Lyngby, Denmark  
 * **Phone:** \+45 2622 0099  
-* **Email:** tobias@buckel.dk  
+* **Email:** tobias@bardino.dk  
 * **LinkedIn:** https://www.linkedin.com/in/tobias-bardino-46b9511
 * **GitHub:** https://github.com/buckel-dk/tobias
 
