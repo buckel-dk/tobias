@@ -11,4 +11,4 @@
 
 ## **Curriculum Vitae**
 
-You can find my Curriculum Vitae here: [Buckel - CV - Tobias.pdf](https://github.com/buckel-dk/tobias/blob/56f6994a497fa30d002c70b6eb98c0acde7ed81e/Buckel%20-%20CV%20-%20Tobias.pdf)
+You can find my Curriculum Vitae here: [Buckel - CV - Tobias.pdf](https://github.com/buckel-dk/tobias/blob/main/Buckel%20-%20CV%20-%20Tobias.pdf)
